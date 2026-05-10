@@ -220,18 +220,8 @@ Output: Softmax(4 clases)
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**[Leandro Montero]**
 Data Analyst | Computer Vision | Industrial IoT
 📧 tuemail@example.com
-💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+💼 [LinkedIn]([https://www.linkedin.com/in/ad-leandro-m/)
 🐙 [GitHub](https://github.com/tu-usuario)
-
-## 📄 Licencia
-
-MIT License - Proyecto de portafolio educativo
-
----
-
-⭐ **¿Te interesa Computer Vision aplicado a industria? Conectemos en LinkedIn!**
-
-🚨 **¿Tu planta necesita detección automática de anomalías?** DM abierto para discutir soluciones.
