@@ -224,4 +224,3 @@ Output: Softmax(4 clases)
 Data Analyst | Computer Vision | Industrial IoT
 📧 tuemail@example.com
 💼 [LinkedIn]([https://www.linkedin.com/in/ad-leandro-m/)
-🐙 [GitHub](https://github.com/tu-usuario)
